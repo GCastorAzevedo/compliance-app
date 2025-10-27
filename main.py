@@ -17,6 +17,7 @@ class LawCode(str, Enum):
 # TODO: replace hard-coded URLs with dynamic navigation to find the compiled versions
 # TODO: replace this function with a an API which returns the page contents. This way, it can
 # fallback to a default page containing the last version, whenever the URLs change
+# TODO: the API call should return not only law codes, but jurisprudence, norms, court decisions
 def get_law_code_url(code: LawCode) -> str:
     if LawCode.forest:
         return "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12651compilado.htm"
