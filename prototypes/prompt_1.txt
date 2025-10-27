@@ -1,0 +1,5 @@
+Um cliente meu pretende construir uma pousada numa área próxima a uma reserva florestal. A pousada terá lotacao para 100 pessoas, pscina, campo de futebol, horta de dois hectares, estufa ocupando 400m2, e o terreno ocupa um total de 1km2.
+
+O terreno situa-se na serra dos orgaos em Teresópolis, e o cliente gostaria de manter uma unidade de conservacao privada contígua a pousada.
+
+Vc poderia analisar esse parecer, com vistas a lei florestal cujo conteudo está no arquivo "page.html" listado no contexto?
